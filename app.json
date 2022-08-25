@@ -1,5 +1,5 @@
 {
-  "name": "💃 Queen-Elisa V2💃",
+  "name": "💃 𝕌𝕄𝔸𝕀ℝ-𝕁𝔸ℕ𝕀 V2💃",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD",
   "logo": "https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg",
@@ -19,7 +19,7 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"94715166712"
+  "value" :"923264639540"
   },
 
  "ALIVE_MESSAGE" :{
@@ -54,25 +54,25 @@
   "BOT_NAME" :{
   "description" : "Type your bot name",
   "requred" : false,
-  "value" :"𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐕2"
+  "value" :"𝕌𝕄𝔸𝕀ℝ 𝐕2"
   },
 
   "OWNER_NAME" :{
   "description" : "Type bot owner name",
   "requred" : false,
-  "value" :"ＭＲ ＮＩＭＡ"
+  "value" :"𝕌𝕄𝔸𝕀ℝ 𝔻𝕆ℕ"
   },
 
   "STICKER_PACK_NAME" :{
   "description" : "Type sticker package name",
   "requred" : true,
-  "value" :"𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙑2"
+  "value" :"𝕌𝕄𝔸𝕀ℝ 𝙑2"
   },
 
   "STICKER_AUTHOR_NAME" :{
   "description" : "Type stcker autor name",
   "requred" : true,
-  "value" :"ＭＲ.ＮＩＭＡ ＯＦＣ"
+  "value" :"𝕁𝔸ℕ𝕀 𝔻𝕆ℕ ＯＦＣ"
   },
 
   "ALIVE_LOGO" :{
