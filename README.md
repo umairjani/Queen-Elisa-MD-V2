@@ -44,7 +44,7 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 #### 𝙵𝚁𝙾 𝙼𝙾𝚁𝙴 
 + [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/JHLvSXWAjm1BlAclOJD9LX) 
 + [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/9264639540?text=From_Umair_Md_Repo💃)
-+ [`Join my YouTube channel `](https://youtube.com/channel/UCg9J5mFkPdOJNciqxOV2Pgw) 
+
 
 #### ```TOTAL REPO VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/darkmakerofc/count.svg)
