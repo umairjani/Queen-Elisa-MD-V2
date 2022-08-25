@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg" width="300" height="300">
   
-# 🧚 ◍ Queen Elisa MD - V2 ◍ 🧚
+# 🧚 ◍ 𝕌𝕞𝕒𝕚𝕣.𝕕𝕠𝕟 MD - V2 ◍ 🧚
 <div align="center">
 Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is tuna bot. 
 
@@ -13,7 +13,7 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 ### VISIT QUEEN ELISA WEBSITE
 
 <p align="left">
-<a href="http://www.queenelisa.42web.io"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT QUEEN ELISA WEBSITE" height="35" width="150" /></a>
+<a href="http://www.queenelisa.42web.io"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT 𝕛𝕒𝕟𝕚 𝕕𝕠𝕟 WEBSITE" height="35" width="150" /></a>
 </p align="left">
 
 
@@ -42,8 +42,9 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 ``` I am in no way responsible for any mistakes you may make !```
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
 #### 𝙵𝚁𝙾 𝙼𝙾𝚁𝙴 
-+ [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/KYvD0uan1KKLUSTtMHV9vi) 
-+ [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
++ [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/JHLvSXWAjm1BlAclOJD9LX) 
++ [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/9264639540?text=From_Umair_Md_Repo💃)
++ [`Join my YouTube channel `](https://youtube.com/channel/UCg9J5mFkPdOJNciqxOV2Pgw) 
 
 #### ```TOTAL REPO VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/darkmakerofc/count.svg)
